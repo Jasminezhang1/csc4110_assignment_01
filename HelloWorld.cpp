@@ -1,4 +1,5 @@
 // Simple C++ program to display "Hello World" 
+//Auther : Fen zhang fenzhang1211@gmail.com
 // Header file for input output functions 
 #include<iostream>  
   
